@@ -1,1 +1,1 @@
-worker:node nero.js 
+worker:node bot.js 
